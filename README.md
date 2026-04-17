@@ -1,4 +1,4 @@
-# OrderBot 🍕
+# OrderBot
 
 ## Overview
 OrderBot is a conversational AI prototype built as part of the **ChatGPT Prompt Engineering for Developers** course by DeepLearning.AI.  
